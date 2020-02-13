@@ -1,5 +1,5 @@
 # PythonChat
-A chat made with python and Flask_socket.io
+A simple chat made with python and Flask_socket.io for studies purpose
 
 How to use
 ---
